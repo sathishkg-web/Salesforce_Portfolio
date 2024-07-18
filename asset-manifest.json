@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Salesforce_Portfolio/static/css/main.ba700339.css",
+    "main.js": "/Salesforce_Portfolio/static/js/main.e355a5ab.js",
+    "index.html": "/Salesforce_Portfolio/index.html",
+    "main.ba700339.css.map": "/Salesforce_Portfolio/static/css/main.ba700339.css.map",
+    "main.e355a5ab.js.map": "/Salesforce_Portfolio/static/js/main.e355a5ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba700339.css",
+    "static/js/main.e355a5ab.js"
+  ]
+}
