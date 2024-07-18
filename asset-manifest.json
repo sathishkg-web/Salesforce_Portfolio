@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Salesforce_Portfolio/static/css/main.ba700339.css",
-    "main.js": "/Salesforce_Portfolio/static/js/main.f7d21e11.js",
+    "main.js": "/Salesforce_Portfolio/static/js/main.39fbf98a.js",
     "index.html": "/Salesforce_Portfolio/index.html",
     "main.ba700339.css.map": "/Salesforce_Portfolio/static/css/main.ba700339.css.map",
-    "main.f7d21e11.js.map": "/Salesforce_Portfolio/static/js/main.f7d21e11.js.map"
+    "main.39fbf98a.js.map": "/Salesforce_Portfolio/static/js/main.39fbf98a.js.map"
   },
   "entrypoints": [
     "static/css/main.ba700339.css",
-    "static/js/main.f7d21e11.js"
+    "static/js/main.39fbf98a.js"
   ]
 }
